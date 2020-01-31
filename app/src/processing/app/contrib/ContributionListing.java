@@ -41,7 +41,7 @@ public class ContributionListing {
   static volatile ContributionListing singleInstance;
 
   /** Stable URL that will redirect to wherever the file is hosted */
-  static final String LISTING_URL = "http://download.processing.org/contribs";
+  static final String LISTING_URL = "http://processing.duee.cn/contribs.txt";
   static final String LOCAL_FILENAME = "contribs.txt";
 
   /** Location of the listing file on disk, will be read and written. */

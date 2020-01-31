@@ -54,8 +54,8 @@ import processing.core.PApplet;
 public class UpdateCheck {
   private final Base base;
 
-  static private final String DOWNLOAD_URL = "http://processing.org/download/";
-  static private final String LATEST_URL = "http://processing.org/download/latest.txt";
+  static private final String DOWNLOAD_URL = "http://processing.duee.cn/download/";
+  static private final String LATEST_URL = "http://processing.duee.cn/download/latest.txt";
 
   static private final long ONE_DAY = 24 * 60 * 60 * 1000;
 
