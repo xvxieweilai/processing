@@ -58,7 +58,7 @@ public class Base {
   // updating the values, due to javac inlining the static final values.
   static private final int REVISION = 271;
   /** This might be replaced by main() if there's a lib/version.txt file. */
-  static private String VERSION_NAME = "0271"; //$NON-NLS-1$
+  static private String VERSION_NAME = "3.5.4(0271)"; //$NON-NLS-1$
   /** Set true if this a proper release rather than a numbered revision. */
 
   /**
